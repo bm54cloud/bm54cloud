@@ -10,7 +10,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Brandi%20McCall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandi-mccall-1968ba21a/)](https://www.linkedin.com/in/brandi-mccall-1968ba21a/)](https://www.linkedin.com/in/brandi-mccall-1968ba21a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Brandi%20McCall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandi-mccall-1968ba21a/)](https://www.linkedin.com/in/brandi-mccall-1968ba21a/)
 [![Medium Badge](https://img.shields.io/badge/-Brandi%20McCall-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@bm54cloud)](https://medium.com/@bm54cloud)
 [![Gmail Badge](https://img.shields.io/badge/-bm54cloud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bm54cloud@gmail.com)](mailto:bm54cloud@gmail.com)
 
