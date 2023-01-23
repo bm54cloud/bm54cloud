@@ -4,8 +4,9 @@
 
 ### Hello! 👋
 
-I am a Nurse Practitioner turned DevOps Engineer living in the beautiful state of Colorado 🏔. When I'm not hiking 👟
- or traveling in my converted campervan 🚐, I'm improving my skills in AWS, Python, Linux, Docker, and Terraform. 
+I am a Nurse Practitioner turned DevOps Engineer living in the beautiful state of Colorado 🏔. 
+When I'm not hiking 👟 or traveling in my converted campervan 🚐, I'm improving my skills in:
+AWS, Python, Linux, Docker, and Terraform. 
 
 Find out more about me & feel free to connect with me here:
 
