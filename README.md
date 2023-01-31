@@ -2,13 +2,13 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Hello! 👋
+### Hello there! 👋
 
 I am a Nurse Practitioner turned DevOps Engineer living in the beautiful state of Colorado 🏔. 
 When I'm not hiking 👟 or traveling in my converted campervan 🚐, I'm improving my skills in:
-AWS, Python, Linux, Docker, and Terraform. 
+AWS, Python, Linux, Docker, Kubernetes, and Terraform. 
 
-Find out more about me & feel free to connect with me here:
+Connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
