@@ -1,4 +1,5 @@
-img width="486" alt="Screen Shot 2023-03-19 at 12 11 10 AM" src="https://user-images.githubusercontent.com/117415095/227798509-7969a096-c67b-409d-a5d4-19bfa5b4e12a.png"
+![Screen Shot 2023-03-19 at 12 11 10 AM](https://user-images.githubusercontent.com/117415095/227798509-7969a096-c67b-409d-a5d4-19bfa5b4e12a.png)
+
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
